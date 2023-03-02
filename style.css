@@ -1,0 +1,45 @@
+body{
+    background-color: blueviolet;
+}
+.containar
+{
+    width: 600px;
+    height: 500px;
+    margin-left: 520px;
+    margin-top: 90px;
+    background-color:hsla(107, 89%, 28%, 0.7);
+}
+#id1{margin-left: 250px;
+    padding-top: 230px;
+    color:white;
+    font-size: 25px;
+
+    
+}
+#id2{margin-left:220px;
+padding-bottom: 170px;
+border-radius: 50%;
+position:fixed;
+
+}
+.c1{color:white;}
+#startBtn{
+    border-radius: 20%;
+    background-color: chocolate;
+    font-size: 25px;
+
+}
+#stopBtn{
+    border-radius: 20%;
+    background-color: chocolate;
+    font-size: 25px;
+}
+
+
+#resetBtn{
+    border-radius: 20%;
+    background-color: chocolate;
+    font-size: 25px;
+}
+
+
